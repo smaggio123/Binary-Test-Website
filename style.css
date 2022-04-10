@@ -1,0 +1,14 @@
+
+.centerText{
+    text-align: center;
+}
+
+#heading{
+    text-align: center;
+}
+
+#workArea{
+    width:20%;
+    height:auto;
+    position:absolute;
+}
